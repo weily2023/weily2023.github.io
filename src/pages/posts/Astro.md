@@ -8,7 +8,7 @@ cover:
     url: 'https://cdn.staticaly.com/gh/zxfccmm/image@master/20230223/7.6zducpj8j5w0.webp'
     square: 'https://cdn.staticaly.com/gh/zxfccmm/image@master/20230223/7.6zducpj8j5w0.webp'
     alt: 'cover'
-tags: ["Steve 分享", "Blog", "Astro"]
+tags: ["考试分享", "Blog", "Astro"]
 theme: 'dark'
 featured: false
 
